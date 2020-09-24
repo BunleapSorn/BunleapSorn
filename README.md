@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi! I'm Bunleap 👋
+I'm a passionate coding **high-schooler** focused on **Vanilla JavaScript**. In Love with Design, Tech & **Open Source** 💚
+
+I'm still in highschool so I read manga in my free times 📚
 
 <!--
 **BunleapSorn/BunleapSorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
