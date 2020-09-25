@@ -1,5 +1,5 @@
 ### Hi! I'm Bunleap 👋
-I'm a 15 years old 🤓 Cambodian kid 🇰🇭 and I'm a passionate coding **high-schooler** focused on **Vanilla JavaScript**. Currently In Love with Design, Technology & **Open Source** 💚
+I'm a 15 years old 🤓 Cambodian kid and I'm a passionate coding **high-schooler 👨‍💻** focused on **✨ Vanilla JavaScript ✨**. Currently In Love with Design, Technology & **Open Source** 💚
 
 Aside from coding, I read manga 📚 and watch anime 🎎!
 <!--
